@@ -1,0 +1,9 @@
+name: mine
+version: 0.1.0
+
+authors:
+  - gzordrai <gzordrai@users.noreply.github.com>
+
+crystal: '>= 1.10.1'
+
+license: MIT

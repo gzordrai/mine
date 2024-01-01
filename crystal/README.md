@@ -1,4 +1,4 @@
-# mine
+# MinePass
 
 TODO: Write a description here
 

@@ -1,6 +1,6 @@
 require "./spec_helper"
 
-describe Mine do
+describe MinePass do
   # TODO: Write tests
 
   it "works" do
